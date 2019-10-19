@@ -1,4 +1,4 @@
-# My-Personal-Paintings
+# My Paintings
 Paintings is my hobby. I like to paint in water colour and oil medium. Here are few of them: 
 
 <p float="left">

@@ -20,7 +20,7 @@ Here are few of them:
 </p>
 
 <p float="left">
-<img src="https://github.com/dataquake/My-Paintings/blob/master/village.jpg" width="600" height="500">
+<img src="https://github.com/dataquake/My-Paintings/blob/master/village.jpg" width="800" height="600">
 
 </p>
 

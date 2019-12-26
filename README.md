@@ -14,13 +14,13 @@ Here are few of them:
 </p>
 
 <p float="left">
-<img src="https://github.com/dataquake/My-Paintings/blob/master/village.jpg" width="400" height="500">
+<img src="https://github.com/dataquake/My-Paintings/blob/master/palm%20tree.jpg" width="400" height="500">
 <img src="https://github.com/dataquake/My-Paintings/blob/master/card.jpg"  width="400" height="500">
 
 </p>
 
 <p float="left">
-<img src="https://github.com/dataquake/My-Paintings/blob/master/village.jpg" width="800" height="500">
+<img src="https://github.com/dataquake/My-Paintings/blob/master/village.jpg" width="600" height="500">
 
 </p>
 

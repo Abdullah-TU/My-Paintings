@@ -16,7 +16,7 @@ Here are few of them:
 
 
 <p float="left">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG" width="800" height="600">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG" width="800" height="1000">
 
 </p>
 

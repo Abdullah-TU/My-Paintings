@@ -15,7 +15,7 @@ Here are few of them:
 
 
 
-<p float="left">
+<p float="center">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG" width="800" height="1000">
 
 </p>

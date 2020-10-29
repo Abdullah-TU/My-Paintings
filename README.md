@@ -1,5 +1,5 @@
 # My Paintings
-Paintings is my hobby. I like to paint in water-colour and oil medium.
+Paintings is my hobby. I like to paint with water-colour and oil medium.
 Here are few of them: 
 
 <p float="left">
@@ -15,7 +15,7 @@ Here are few of them:
 
 
 
-<p float="center">
+<p float="right">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG" width="800" height="1000">
 
 </p>

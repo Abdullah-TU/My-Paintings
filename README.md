@@ -3,8 +3,8 @@ Paintings is my hobby. I like to paint with water-colour and oil medium.
 Here are few of them: 
 
 <p float="left">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="500" height="640">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="500" height="640">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="400" height="500">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="400" height="500">
 
 </p>
 

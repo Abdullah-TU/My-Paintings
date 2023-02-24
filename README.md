@@ -10,7 +10,7 @@ Here are few of them:
 
 
 <p float="left">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/P%C3%A4iv%C3%A4nkakkaran%20kukka%20puutarhassa.jpg" width="1000" height="580">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/P%C3%A4iv%C3%A4nkakkaran%20kukka%20puutarhassa.jpg" width="1000" height="500">
 
 </p>
 

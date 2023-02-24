@@ -15,7 +15,7 @@ Here are few of them:
 </p>
 
 <p float="left">
-<img src="https://github.com/dataquake/My-Personal-Paintings/blob/master/baltic%20sea.jpg?raw=true" width="1000" height="600">
+<img src="https://github.com/dataquake/My-Personal-Paintings/blob/master/baltic%20sea.jpg?raw=true" width="1000" height="580">
 
 </p>
 

@@ -5,7 +5,7 @@ Here are few of them:
 <p float="left">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="410" height="520">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="410" height="520">
-
+<img src="https://github.com/dataquake/My-Personal-Paintings/blob/master/baltic%20sea.jpg?raw=true" width="1000" height="580">
 </p>
 
 
@@ -15,7 +15,7 @@ Here are few of them:
 </p>
 
 <p float="left">
-<img src="https://github.com/dataquake/My-Personal-Paintings/blob/master/baltic%20sea.jpg?raw=true" width="1000" height="580">
+
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Newspaper%20article%2C%20exhibition.JPG" width="1000" height="580">
 </p>
 

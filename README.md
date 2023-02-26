@@ -6,7 +6,7 @@ Here are few of them:
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="410" height="520">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/leppavara.jpg" width="410" height="520">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Newspaper%20article%2C%20exhibition.JPG" width="1000" height="480">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/P%C3%A4iv%C3%A4nkakkaran%20kukka%20puutarhassa.jpg" width="1000" height="460">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/P%C3%A4iv%C3%A4nkakkaran%20kukka%20puutarhassa.jpg" width="1000" height="480">
 
 </p>
 

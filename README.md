@@ -22,7 +22,7 @@ Here are few of them:
 
 <p float="right">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG" width="410" height="520">
-
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Shimul.jpg" width="410" height="520">
 </p>
 
 

@@ -12,7 +12,7 @@ Here are few of them:
 
 
 <p float="left">
-<img src="https://github.com/dataquake/My-Personal-Paintings/blob/master/baltic%20sea.jpg?raw=true" width="1000" height="580">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/baltic%20sea.jpg" width="1000" height="500">
 
 </p>
 

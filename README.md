@@ -21,7 +21,7 @@ Here are few of them:
 
 
 <p float="right">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG" width="800" height="1000">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG" width="410" height="520">
 
 </p>
 

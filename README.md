@@ -1,6 +1,5 @@
 # My Paintings
-Paintings is my hobby. I like to paint with water-colour and oil medium.
-Here are few of them: 
+Creating art is one of my passions, and I enjoy expressing myself through painting using both watercolors and oil mediums. I'm thrilled to share a few of my pieces with you.
 
 <p float="left">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Magnolia.jpg" width="410" height="520">

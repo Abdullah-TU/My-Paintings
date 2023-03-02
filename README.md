@@ -9,7 +9,7 @@ Painting is one of my passions, and I enjoy expressing myself through painting u
 </p>
 
 <p float="left">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/baltic%20sea.jpg" width="1000" height="500">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/baltic%20sea.jpg" width="1000" height="480">
 </p>
 
 <p float="right">

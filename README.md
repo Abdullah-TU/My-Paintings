@@ -15,10 +15,6 @@ Painting is one of my passions, and I enjoy expressing myself through painting u
 
 </p>
 
-
-
-
-
 <p float="right">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/magazine.PNG" width="410" height="520">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/Shimul.jpg" width="410" height="520">

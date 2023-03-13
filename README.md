@@ -1,4 +1,4 @@
-# +1F3A8 My Paintings U+1F5BC
+# +1F3A8 My Paintings \01F5BC \FE0F
 Painting is one of my passions, and I enjoy expressing myself through painting using both watercolors and oil mediums. I'm thrilled to share a few of my pieces with you.
 
 <p float="left">

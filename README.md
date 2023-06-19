@@ -18,8 +18,8 @@ Painting is one of my passions, and I enjoy expressing myself through painting u
 </p>
 
 <p float="right">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/2nd%20exibition2.jpeg" width="410" height="520">
-<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/2ndexibition3.jpeg" width="410" height="520">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/2nd%20exibition2.jpeg" width="1000" height="100">
+<img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/2ndexibition3.jpeg" width="520" height="410">
 <img src="https://github.com/Abdullah-TU/My-Paintings/blob/master/2ndexibition1.jpeg" width="520" height="410">
 </p>
 
